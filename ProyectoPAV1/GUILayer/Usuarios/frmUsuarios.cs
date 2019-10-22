@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using ProyectoPAV1.Entities;
 using ProyectoPAV1.BusinessLayer;
 using ProyectoPAV1.Reportes;
-
+//form de usuararios
 
 namespace ProyectoPAV1.GUILayer.Usuarios
 {
